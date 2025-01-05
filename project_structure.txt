@@ -1,0 +1,6 @@
+support-ticket-analyzer/
+├── analyzer.py        # Main script with all logic
+├── sample_tickets.py  # Sample data
+├── requirements.txt   # Dependencies
+├── .env.example      # Environment variables template
+└── README.md         # Documentation
